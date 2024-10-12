@@ -1,6 +1,10 @@
 # JSONCodable
 
-Protocol JSONCodable base on Codable easily extend the Class/Struct with decode from json Data/String/URL and encode to json Data/String/URL.
+Protocol JSONCodable base on Codable
+
+Extension Class/Struct
+Decode from json Data/String/URL
+Encode to json Data/String/URL
 
 # How to install
 
