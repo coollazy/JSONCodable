@@ -3,7 +3,9 @@
 Protocol JSONCodable base on Codable
 
 Extension Class/Struct
+
 Decode from json Data/String/URL
+
 Encode to json Data/String/URL
 
 # How to install
